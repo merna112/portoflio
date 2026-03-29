@@ -1,57 +1,57 @@
-# Merna Adel - Portfolio Website
+# Merna Adel Portfolio
 
-A modern, responsive portfolio website showcasing 10+ projects built with **Next.js**, **TypeScript**, and **Tailwind CSS**. The portfolio features a clean dark theme with beautiful gradient accents and smooth animations.
+Professional portfolio website for Merna Adel, Full Stack Developer, showcasing live products, technical projects, skills, and contact channels.
 
-## 🚀 Features
+## Live Website
 
-- **Hero Section** - Eye-catching title with animated role typing effect
-- **About Section** - Professional bio with categorized skills and experience
-- **Projects Showcase** - Featured projects with detailed descriptions and tech stack
-- **Contact Section** - Contact form and social media links
-- **Responsive Design** - Works perfectly on mobile, tablet, and desktop
-- **Dark Theme** - Modern dark theme with blue and cyan accents
-- **Smooth Navigation** - Fixed navigation and smooth scroll behavior
-- **Performance Optimized** - Built with Next.js 16 and optimized for speed
+Production URL: https://portoflio-tawny-phi.vercel.app/
 
-## 📊 Projects Included
+## Overview
 
-1. **Pacman Game - OS Concepts** - Game applying multithreading and memory management
-2. **KubeCloudAI** - Cloud-native orchestration using Kubernetes and AI
-3. **TaskPilot** - Intelligent task management platform
-4. **E-Commerce Microservices MVC** - Scalable microservices architecture
-5. **Mapty App** - Geolocation-based workout tracking
-6. **Natours Website** - Tour booking platform with responsive design
-7. **BigGame** - Competitive board game for two players
-8. **Guess My Number Game** - Interactive number guessing game
-9. **Distributed Search Engine** - Scalable search implementation
-10. **AIOps Observability Lab** - AI-driven operations platform
+This portfolio is built as a modern single-page experience with strong visual hierarchy and interactive sections.
 
-## 🛠️ Tech Stack
+- Product-first project showcase with deployed app previews
+- Responsive layout for mobile, tablet, and desktop
+- Animated hero, cards, and section transitions
+- Publications section and professional highlights
+- Contact form and social links
 
-- **Next.js 16** - React framework for production
-- **TypeScript** - Type-safe JavaScript
-- **Tailwind CSS** - Utility-first CSS framework
+## Tech Stack
 
-## 📦 Getting Started
+- Next.js 16 (App Router)
+- TypeScript
+- Tailwind CSS
+
+## Featured Live Products
+
+- Distributed Search Engine
+- Shop-Hub - Multi-Vendor E-Commerce Platform
+- KubeCloudAI
+
+## Local Development
 
 ```bash
-# Install dependencies
 npm install
-
-# Run development server
 npm run dev
+```
 
-# Build for production
+Open http://localhost:3000
+
+## Build
+
+```bash
 npm run build
 ```
 
-Visit [http://localhost:3000](http://localhost:3000) to see your portfolio.
+## Project Structure
 
-## 🌐 Connect
+- app/: Layout, global styles, and page entry
+- components/: Reusable UI sections (Header, Hero, About, Projects, Contact, Footer, Publications)
+- lib/: Project and publication data
 
-- **GitHub** - [merna112](https://github.com/merna112)
-- **LinkedIn** - [merna-adel-4b4426269](https://www.linkedin.com/in/merna-adel-4b4426269)
-- **Email** - mernaadel182@gmail.com
+## Contact
 
-✨ Keep building. Keep learning. Keep shining ✨
+- GitHub: https://github.com/merna112
+- LinkedIn: https://www.linkedin.com/in/merna-adel-4b4426269
+- Email: mernaadel182@gmail.com
 
